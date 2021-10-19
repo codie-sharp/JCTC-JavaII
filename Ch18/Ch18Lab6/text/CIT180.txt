@@ -1,0 +1,3 @@
+Security Fundamentals
+
+ Introduces basic computer and network security concepts and methodologies. Covers principles of security; compliance and operational security; threats and vulnerabilities; network security; application, data, and host security; access control and identity management; and cryptography.  Prerequisite:  (CIT 105 AND (CIT 160 OR CIT 161)); OR Consent of Instructor

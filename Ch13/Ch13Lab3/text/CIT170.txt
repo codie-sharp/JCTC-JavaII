@@ -1,0 +1,3 @@
+Database Design Fundamentals
+
+ Provides an overview of database and database management system concepts, internal design models, normalization, network data models, development tools, and applications.  Prerequisite:  (CIT 105 OR OST 105 OR IMD 100) AND (MAT 085 OR MAT 126) OR Consent of Instructor

@@ -1,0 +1,3 @@
+Introduction to Networks
+
+ Introduces the architecture, structure, functions, components, and models of the Internet and other computer networks.  Provides the opportunity to build simple LAN topologies by applying principles of cabling; performing basic configurations of network devices, including routers and switches; and implementing IP addressing schemes.  (This is the first course in the Cisco Exploration sequence.)  Prerequisite:  CIT 111 OR Consent of Instructor

@@ -1,0 +1,3 @@
+Perimeter Defense
+
+ Presents information and skills required to secure computers and networks from attacks with an emphasis on configuration of firewalls and intrusion-detection systems.  Prerequisite:  CIT 180 OR Consent of Instructor

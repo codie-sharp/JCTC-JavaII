@@ -1,0 +1,3 @@
+PHP I
+
+ Explores the fundamentals of PHP, with emphasis on syntax, structure, and current usage. Includes dynamic generation of web pages, fluid forms, and web security.  Prerequisite:  CIT 120 OR Consent of Instructor

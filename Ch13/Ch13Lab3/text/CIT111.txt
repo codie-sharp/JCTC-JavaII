@@ -1,0 +1,3 @@
+Computer Hardware and Software
+
+ Presents a practical view of computer hardware and client operating systems. Covers computer hardware components; troubleshooting, repair, and maintenance; operating system interfaces and management tools; networking components; computer security; and operational procedures.  Prequisites:  (CIT 105 AND MAT 065) OR Consent of Instructor

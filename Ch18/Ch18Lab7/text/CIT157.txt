@@ -1,0 +1,4 @@
+Web Page Development
+
+ Introduces web site production processes with particular emphasis on design involving layout, navigation, interactivity, and using web production software.  
+Prerequisite:  CIT 105 OR Consent of Instructor

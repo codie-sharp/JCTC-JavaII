@@ -1,0 +1,3 @@
+Perl I
+
+ Provides students with an overview of the PERL scripting language.  Includes coding, testing, and debugging PERL programs; using variables, operators, and data types; and using control structures, pattern matching, objects, and application scripts. Prerequisite:  CIT 120 or Consent of Instructor

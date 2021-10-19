@@ -1,0 +1,3 @@
+Introduction to GIS
+
+ Provides basic theories and concepts of geographical information systems including basic GIS capabilities, data collection, data types, GPS, and basic mapping concepts. Introduces GIS software using industry-specific applications and technology to provide a conceptual base to build expertise in GIS.  Prequisite:  CIT 105 OR Consent of Instructor

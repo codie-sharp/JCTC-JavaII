@@ -1,0 +1,4 @@
+Web Page Development
+
+ Introduces web page design through the use of HTML and CSS.  Uses text and/or web editors to create web documents with various formats and page layouts, multimedia, tables and forms.  Emphasizes W3C web design and accessibility standards.
+Prerequisite:  CIT 105 OR Consent of Instructor

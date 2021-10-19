@@ -1,0 +1,3 @@
+Internet Technologies
+
+ Provides students with a study of traditional and emerging Internet technologies. Covers topics including Internet fundamentals, Internet applications, Internet delivery systems, and Internet client/server computing. Provides a hands-on experience and some rudimentary programming in an Internet environment.       Prerequisite:  (CIT 105 AND CIT 120) OR Consent of Instructor

@@ -1,0 +1,3 @@
+JavaScript I
+
+ Provides students with an overview of the JavaScript scripting language. Includes coding, testing, and debugging JavaScript programs; using variables, operators, and data types;  creating dynamic web pages using JavaScript; controlling the behavior of forms, buttons, and text elements;  and using control structures, pattern matching, objects, and application scripts.  Prerequisite:  CIT 120 AND (CIT 150 or CIT 155) OR Consent of Instructor

@@ -1,0 +1,3 @@
+Java I
+
+ Introduces students to fundamental programming concepts using the Java programming language.  Includes data types, control structures, simple data structures, error-handling, object-oriented programming, graphical user interfaces, and modular programming.      Prerequisite:  CIT 120 or Consent of Instructor

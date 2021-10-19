@@ -1,0 +1,3 @@
+Attacks and Exploits
+
+ Provides knowledge and skills necessary to understand a variety of attacks and exploits against computers and networks.  Teaches effective defensive techniques against real attacks.  Prerequisite:  CIT 180 OR Consent of Instructor

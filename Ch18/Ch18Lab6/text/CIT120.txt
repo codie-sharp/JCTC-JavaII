@@ -1,0 +1,3 @@
+Computational Thinking
+
+ Promotes understanding of computer programming and logic by teaching students to “think like a computer”.  Covers skills needed to develop and design language-independent solutions to solve computer-related problems.  Covers development and design basics including use of variables, control and data structures, and principles of command-line and object-oriented languages.  Prequisite:  (CIT 105 OR OST 105 OR IMD 100) AND (MAT 085 OR MAT 126) OR Consent of Instructor

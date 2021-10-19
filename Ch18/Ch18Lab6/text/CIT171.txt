@@ -1,0 +1,3 @@
+SQL I
+
+ Provides students with an extensive introduction to database manipulation techniques.  Introduces students to SQL; will create and maintain database objects; and store, retrieve, and manipulate data using SQL.  Prerequisite:  (CIT 120 and CIT 170) OR Consent of Instructor
